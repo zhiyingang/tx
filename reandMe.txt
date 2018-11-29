@@ -1,0 +1,10 @@
+本地事物协调
+LCN
+消息组groupid----传递-------是否提交
+netty
+connection 重写
+trancation 本地事务
+lock  Task类
+方法拦截   注解拦截 aspect
+协调者
+
